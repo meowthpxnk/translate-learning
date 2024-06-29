@@ -1,0 +1,2 @@
+class BaseConstants:
+    CONSTANT = "VALUE"
